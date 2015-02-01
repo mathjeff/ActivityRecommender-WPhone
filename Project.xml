@@ -6,7 +6,7 @@
     <DependencyList>
       <item>
         <name>ActivityRecommender</name>
-        <version>5f3736daf90b8cd84bbd1f733bc6f67de2d34ac1</version>
+        <version>1fc2a8d3bc2cad15c28343dadd31bef30b9ddf70</version>
         <syncher>
           <Git>
             <origin><Url><server>https://github.com</server><path>mathjeff/ActivityRecommender</path></Url></origin>

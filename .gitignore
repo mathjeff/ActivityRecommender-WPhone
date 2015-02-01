@@ -1,1 +1,8 @@
 deps
+obj
+Bin
+Debug
+Release
+PerfLogs
+*.sap
+*.suo
