@@ -1,15 +1,21 @@
-<Project>
+
+<Project>  
   <name>ActivityRecommender-WPhone</name>
   <source><GitRepo/></source>
   <version><GitVersion/></version>
-  <dependencies>
-    <DependencyList>
-      <item>
+  <dependencies>  
+    <DependencyList>  
+      <item>  
         <name>ActivityRecommender</name>
-        <version>1fc2a8d3bc2cad15c28343dadd31bef30b9ddf70</version>
-        <syncher>
-          <Git>
-            <origin><Url><server>https://github.com</server><path>mathjeff/ActivityRecommender</path></Url></origin>
+        <version>f2ba7a69ee13c979d61bee037982c160a6f6223c</version>
+        <syncher>  
+          <Git>  
+            <origin>  
+              <Url>  
+                <server>https://github.com</server>
+                <path>mathjeff/ActivityRecommender</path>
+              </Url>
+            </origin>
           </Git>
         </syncher>
       </item>
