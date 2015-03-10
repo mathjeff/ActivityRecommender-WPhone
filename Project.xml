@@ -7,7 +7,7 @@
     <DependencyList>  
       <item>  
         <name>ActivityRecommender</name>
-        <version>df1883cca45eaf09bcf5eeb41c03355ee3fed01a</version>
+        <version>01dbaf1c1199eda93a12ed0eaf332848f137a860</version>
         <syncher>  
           <Git>  
             <origin>  
